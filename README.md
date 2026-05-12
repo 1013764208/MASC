@@ -1,4 +1,4 @@
-# Multi-Agent Scripting & Collaboration; AgentScope 多智能体剧本生成系统
+# 多智能体剧本生成项目
 
 本项目是一个基于 `AgentScope` 的多智能体剧本生成实验系统。系统面向“可控剧本生成”任务，将一次完整的剧本创作拆分为多个专业 Agent 协作完成，包括剧情规划、角色设计、对白生成、编辑润色和质量评估。
 
